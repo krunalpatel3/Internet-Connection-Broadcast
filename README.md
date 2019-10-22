@@ -1,4 +1,4 @@
-# Notify when device gets connected to the Internet. 
+# Notify when device gets connected to the Internet from Background. 
 Notify when device gets connected to internet in android pie and lower version.
 
 ### For Higher version:-
